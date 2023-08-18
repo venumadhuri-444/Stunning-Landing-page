@@ -1,0 +1,260 @@
+#head-contain{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px auto;
+    align-items: center;
+    padding: 0px 40px;
+}
+
+
+#stunning-logo{
+    width: 100px;
+}
+
+body{
+    margin:0px
+}
+#nav-item a{
+    display: inline-block;
+    margin: 0px 15px;
+    padding: 10px 0px;
+    color: gray;
+    font-size: 20px;
+    
+
+}
+#nav-item a:hover{
+    border-bottom: 4px solid blue;
+    color: black;
+}
+
+#your-account-button{
+    border-width: 0px;
+    color: blue;
+    background-color: pink;
+    border-radius: 25px;
+    padding: 15px 25px;
+}
+
+
+#main-section{
+    display: flex;
+    width: 90%;
+    margin: 40px 90px;
+}
+
+#left-section{
+    width: 40%;
+}
+#right-section{
+    width: 60%;
+}
+
+#stunning{
+    font-size: 77px;
+}
+body{
+    background-color: whitesmoke;
+}
+
+#new{
+    border-width: 0px;
+    color: white;
+    background-color: #5d408b;
+    border-radius: 25px;
+    padding: 15px 25px;
+}
+   
+
+.your-account-button-arrows{
+    display: flex;
+    align-items: center;
+    margin-top: 37px;
+    width: 60%;
+    justify-content: space-between;
+       
+}
+
+#buttonspec{
+    background-color: pink;
+    padding: 5px 10px;
+    margin: 0px;
+    border-radius: 10px;
+    border-color: pink;
+}
+
+.specification-box-bar{
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: pink;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+
+.specification-box{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 15px;
+    background-image: url(./downloads/tick-gray.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+
+.left-specification-section{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.right-specification-section{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.specification-box:hover{
+    background-color: white;
+    cursor: pointer;
+    background-image: url(./downloads/tick-blue.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+
+.specification-box-bar1{
+    border-width: 0px;
+    background-color: orange;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+
+.specification-box1{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 15px;
+    background-image: url(./downloads/tick-gray.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+
+.left-specification-section1{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.right-specification-section1{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.specification-box1:hover{
+    background-color: white;
+    cursor: pointer;
+    background-image: url(./downloads/tick-blue.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+.specification-box-bar2{
+    border-width: 0px;
+    background-color: green;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+
+.specification-box2{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 15px;
+    background-image: url(./downloads/tick-gray.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+
+.left-specification-section2{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.right-specification-section2{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.specification-box2:hover{
+    background-color: white;
+    cursor: pointer;
+    background-image: url(./downloads/tick-blue.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+.specification-box-bar3{
+    border-width: 0px;
+    background-color: rgb(184, 111, 111);
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+
+.specification-box3{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 15px;
+    background-image: url(./downloads/tick-gray.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
+
+
+.left-specification-section3{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.right-specification-section3{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.specification-box3:hover{
+    background-color: white;
+    cursor: pointer;
+    background-image: url(./downloads/tick-blue.png);
+    background-repeat: no-repeat;
+    background-position: 18px 20px;
+}
